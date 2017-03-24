@@ -1,0 +1,27 @@
+{
+  "name": "la",
+  "version": "1.0.0",
+  "description": "simple application to manage customer",
+  "main": "index.html",
+  "directories": {
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.2",
+    "multer": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "texting..."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kdelvi/la.git"
+  },
+  "keywords": [
+    "customer"
+  ],
+  "author": "delvi",
+  "license": "UNLICENSED"
+}
